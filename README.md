@@ -12,7 +12,7 @@ Debe permitir un acceso seguro desde el browser a la aplicación. Es decir debe 
 Debe tener al menos dos computadores comunicacndose entre ellos y el acceso de servicios remotos debe garantizar: autenticación, autorización e integridad entre los servicios. Nadie puede invocar los servicios si no está autorizado.
 
 ## Despliegue 
-
+[![CircleCI](https://circleci.com/gh/JamesTorres99/laboratorio-AREP-6.svg?style=svg)](https://circleci.com/gh/JamesTorres99/laboratorio-AREP-6)
 
 **Compilar el proyecto con maven**
 ```
